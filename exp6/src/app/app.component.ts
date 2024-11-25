@@ -12,5 +12,4 @@ import { JavascriptComponent } from './javascript/javascript.component';
 })
 export class AppComponent {
   title = 'exp6_angular_services';
-
 }
